@@ -24,8 +24,12 @@ I transform the problem into a binary classification. Ratings 4 and 5 are consir
 
 ![image](https://user-images.githubusercontent.com/70241561/118749131-4a0ad980-b833-11eb-8dbb-6dcd702b02cf.png)
 
-This is the shapes of the data used in both training and validation after undersampling. 
+This is the shapes of the data used in both training and validation after undersampling. \
 I used a multinomial Naive Bayes. 
+
+![image](https://user-images.githubusercontent.com/70241561/118749277-948c5600-b833-11eb-8faa-951dd04d8087.png)
+
+Training score and best parameters for the model
 
 -------------------------
 
